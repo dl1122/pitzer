@@ -13,14 +13,14 @@ def main():
     x4=x1
     x5=x2
 
-
+    z=????
 
     plt.contour(x1,x2,z,0)#最后一个为0，不然多条线，默认绿色
-
+    z=?????????
     plt.contour(x1,x2,z,0,colors=['r'])
 
 
-
+    z=???????????
     plt.contour(x1,x2,z,0,colors=['b'])
 
     #plt.contour(x1,x2,z,0,colors=['g'])
